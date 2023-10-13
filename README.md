@@ -23,3 +23,5 @@ As a passionate JavaScript Full Stack Developer, I'm always eager to explore the
 I'm always eager to collaborate on exciting projects, learn new technologies, and contribute to the ever-expanding world of web development. If you're interested in working together or have any questions, feel free to get in touch. Let's bring your ideas to life!
 
  portfolio: codingba.vercel.app
+email: codingbakelvin@gmail.com
+Phone: +233249209171
