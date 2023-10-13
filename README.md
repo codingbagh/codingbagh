@@ -12,7 +12,7 @@ As a passionate JavaScript Full Stack Developer, I'm always eager to explore the
 
 - **Next.js for Server-Side Rendering**: I leverage Next.js for server-side rendering and optimized SEO for web applications.
 
-- **Tauri Desktop Apps**: I can create cross-platform desktop applications using Tauri, ensuring a smooth user experience on Windows, macOS, and Linux.
+- **Tauri and Electronjs Desktop Apps**: I can create cross-platform desktop applications using Tauri and Electron, ensuring a smooth user experience on Windows, macOS, and Linux.
 
 - **Data Visualization**: I work with various visualization frameworks to translate data into insightful charts, graphs, and visual representations.
 
