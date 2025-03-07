@@ -24,4 +24,4 @@ I'm always eager to collaborate on exciting projects, learn new technologies, an
 
  portfolio: codingba.vercel.app
 email: codingbakelvin@gmail.com
-Phone: +233249209171.
+Phone: +23354844479.
