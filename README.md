@@ -1,27 +1,61 @@
-# Hi, I'm Boateng Oduro Kelvin
+<h1 align="center">Hi 👋, I'm codingbagh</h1>
+<p align="center">
+  <b>Full Stack Developer | SaaS Builder | Mentor | Founder of 360 BOTECH DEVELOPMENTS LTD, GH</b>
+</p>
 
-As a passionate JavaScript Full Stack Developer, I'm always eager to explore the ever-evolving web development landscape. I have a strong foundation in various technologies and frameworks, including ReactJS, MongoDB, MySQL, React Native, Next.js, Tauri, visualization frameworks, and Express. I thrive in the dynamic world of JavaScript and can easily transition between different stacks and frameworks.
+---
 
-## What I Bring to the Table
+### 🚀 About Me
 
-- **Front-End Proficiency**: I'm well-versed in building engaging and user-friendly web applications using React.js. I create responsive and intuitive user interfaces that cater to a seamless user experience.
+I'm a passionate full stack developer and founder of [360 BOTECH DEVELOPMENTS LTD, GH](https://www.360lodgesuite.com/), focused on building SaaS platforms, mobile apps, and web solutions tailored to real-world problems. I love mentoring upcoming developers and empowering students to become full stack professionals.
 
-- **Back-End Expertise**: With Node.js and Express, I develop robust server-side applications, RESTful APIs, and integrate databases like MongoDB and MySQL for data management.
+- 👨‍💻 Currently building: SaaS platforms, web & mobile apps, and cross-platform desktop solutions.
+- 🛠️ Training & mentoring: Trained 100+ students at SRC Skills Fair 2024.
+- 🏆 Founder of **360 BOTECH DEVELOPMENTS LTD, GH**.
 
-- **Cross-Platform Development**: My knowledge extends to React Native for creating mobile applications that run on both iOS and Android platforms.
+---
 
-- **Next.js for Server-Side Rendering**: I leverage Next.js for server-side rendering and optimized SEO for web applications.
+### 🛠️ Tech Stack
 
-- **Tauri and Electronjs Desktop Apps**: I can create cross-platform desktop applications using Tauri and Electron, ensuring a smooth user experience on Windows, macOS, and Linux.
+- **Frontend:** React.js / React Native (Expo), Next.js (15, App Router), Tailwind CSS
+- **Backend:** Node.js, Express.js, Python, Flask
+- **Desktop:** Tauri (cross-platform desktop apps)
+- **Database:** MongoDB, PostgreSQL, MySQL
+- **Cloud & Deployment:** Firebase, Vercel, AWS, Cloudinary
 
-- **Data Visualization**: I work with various visualization frameworks to translate data into insightful charts, graphs, and visual representations.
+---
 
-- **Versatility in Stacks**: My ability to quickly switch between JavaScript stacks and frameworks allows me to adapt to diverse project requirements.
+### 🌟 Featured Project
 
-## Let's Collaborate
+#### 🏨 [Hotel Booking SaaS Platform](https://www.360lodgesuite.com/)
+- Multi-hotel support, automated VAT/GRA tax handling, and stock management.
+- Built to simplify hospitality operations and scale hotel businesses in Ghana and beyond.
 
-I'm always eager to collaborate on exciting projects, learn new technologies, and contribute to the ever-expanding world of web development. If you're interested in working together or have any questions, feel free to get in touch. Let's bring your ideas to life!
+---
 
- portfolio: codingba.vercel.app
-email: codingbakelvin@gmail.com
-Phone: +23354844479.
+### 👨‍🏫 I Love...
+
+- Teaching and mentoring the next generation of developers.
+- Critical thinking, problem-solving, and scaling impactful solutions.
+- Exploring how tech can solve everyday challenges in Ghana.
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codingbagh) 
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/codingbagh)
+[![Website](https://img.shields.io/badge/Portfolio-222?logo=google-chrome&logoColor=white)](https://codingba.vercel.app/)
+
+---
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=codingbagh&show_icons=true&theme=react" alt="codingbagh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbagh&layout=compact&theme=react" alt="codingbagh's Top Languages" />
+</details>
+
+---
+
+*“Big on building, teaching, and scaling tech solutions that matter.”*
