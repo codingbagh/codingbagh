@@ -49,13 +49,5 @@ I'm a passionate full stack developer and founder of [360 BOTECH DEVELOPMENTS LT
 
 ---
 
-<details>
-  <summary>📈 GitHub Stats</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=codingbagh&show_icons=true&theme=react" alt="codingbagh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingbagh&layout=compact&theme=react" alt="codingbagh's Top Languages" />
-</details>
-
----
 
 *“Big on building, teaching, and scaling tech solutions that matter.”*
