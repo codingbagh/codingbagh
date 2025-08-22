@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate full stack developer and founder of [360 BOTECH DEVELOPMENTS LTD, GH](https://www.360lodgesuite.com/), focused on building SaaS platforms, mobile apps, and web solutions tailored to real-world problems. I love mentoring upcoming developers and empowering students to become full stack professionals.
+I'm a passionate full stack developer and founder of [360 BOTECH DEVELOPMENTS LTD, GH](https://www.360botech.com/), focused on building SaaS platforms, mobile apps, and web solutions tailored to real-world problems. I love mentoring upcoming developers and empowering students to become full stack professionals.
 
 - 👨‍💻 Currently building: SaaS platforms, web & mobile apps, and cross-platform desktop solutions.
 - 🛠️ Training & mentoring: Trained 100+ students at SRC Skills Fair 2024.
