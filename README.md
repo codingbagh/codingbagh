@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm codingbagh</h1>
+<h1 align="center">Hi 👋, I'm Boateng Oduro Kelvin (Coding Ba)</h1>
 <p align="center">
   <b>Full Stack Developer | SaaS Builder | Mentor | Founder of 360 BOTECH DEVELOPMENTS LTD, GH</b>
 </p>
