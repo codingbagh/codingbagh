@@ -50,4 +50,4 @@ I'm a passionate full stack developer and founder of [360 BOTECH DEVELOPMENTS LT
 ---
 
 
-*“Big on building, teaching, and scaling tech solutions that matter.”*
+*“Big on building, teaching, and scaling tech solutions that matter”*
